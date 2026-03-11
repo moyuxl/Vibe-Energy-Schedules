@@ -66,3 +66,8 @@ npm run dev
 ## 技术栈
 
 前端：Next.js 14、Tailwind、TypeScript | 后端：FastAPI、SQLAlchemy、SQLite
+
+## 前端页面
+<img width="749" height="1271" alt="image" src="https://github.com/user-attachments/assets/85acec14-b825-4718-9eea-45b1958bed1c" />
+<img width="789" height="1271" alt="image" src="https://github.com/user-attachments/assets/68d1dac6-5ec7-4832-a2f4-9f4803b95d45" />
+
